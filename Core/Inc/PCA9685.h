@@ -1,0 +1,9 @@
+#define mode1         0x00
+#define mode2         0x01
+#define LED0_ON_L     0x06
+#define LED0_ON_H     0x07
+#define LED0_OFF_L    0x08
+#define LED0_OFF_H    0x09
+#define address_write 0x80
+#define address_read  0x81
+#define Pre_scale     0xFE

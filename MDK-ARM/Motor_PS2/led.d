@@ -1,0 +1,11 @@
+motor_ps2\led.o: ..\Core\Src\led.c
+motor_ps2\led.o: D:\keil5\pack\Keil\STM32F1xx_DFP\2.4.0\Device\Include\stm32f10x.h
+motor_ps2\led.o: .\RTE\_Motor_PS2\RTE_Components.h
+motor_ps2\led.o: D:\keil5\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h
+motor_ps2\led.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+motor_ps2\led.o: D:\keil5\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h
+motor_ps2\led.o: D:\keil5\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h
+motor_ps2\led.o: D:\keil5\pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h
+motor_ps2\led.o: D:\keil5\pack\Keil\STM32F1xx_DFP\2.4.0\Device\Include\system_stm32f10x.h
+motor_ps2\led.o: ../Core/Inc/led.h
+motor_ps2\led.o: ../Core/Inc/sys.h
